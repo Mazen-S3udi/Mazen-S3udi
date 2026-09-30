@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Board Games Project.<br>👯 I’m looking to collaborate on projects that help me improve my skills.<br>🌱 I’m currently learning the basics of network.<br>💬 Ask me about any thing you need it.<br>⚡ Fun fact: I enjoy building small projects that challenge my logic and creativity.
+<br>👯 I’m looking to collaborate on projects that help me improve my skills.<br>🌱 I’m currently learning the basics of network.<br>💬 Ask me about any thing you need it.<br>⚡ Fun fact: I enjoy building small projects that challenge my logic and creativity.
 
 
 ## 🌐 Socials:
